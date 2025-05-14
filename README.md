@@ -1,1 +1,8 @@
-# josephcliffordmuiruri
+- 👋 Hi, I’m **Joseph Muiruri**
+- 👀 I’m interested in **Finance, Data Analytics, and FinTech**
+- 🌱 I’m currently learning **Machine Learning & Forecasting**
+- 💞️ I’m looking to collaborate on **data-driven or financial modeling projects**
+- 📬 How to reach me: [cliffjoem@gmail.com](mailto:cliffjoem@gmail.com)
+- 💼 LinkedIn: [josephcliffordmuiruri](https://www.linkedin.com/in/josephcliffordmuiruri)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I blend financial analysis and code to make numbers tell stories!

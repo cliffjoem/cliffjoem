@@ -5,4 +5,4 @@
 - 📬 How to reach me: [cliffjoem@gmail.com](mailto:cliffjoem@gmail.com)
 - 💼 LinkedIn: [josephcliffordmuiruri](https://www.linkedin.com/in/josephcliffordmuiruri)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I blend financial analysis and code to make numbers tell stories!
+- ⚡ Fun fact: Nothing makes me happier than turning messy data into sleek dashboards! 🧼➡️📊

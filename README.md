@@ -1,8 +1,7 @@
-- 👋 Hi, I’m **Joseph Muiruri**
-- 👀 I’m interested in **Finance, Data Analytics, and FinTech**
-- 🌱 I’m currently learning **Machine Learning & Forecasting**
-- 💞️ I’m looking to collaborate on **data-driven or financial modeling projects**
-- 📬 How to reach me: [cliffjoem@gmail.com](mailto:cliffjoem@gmail.com)
-- 💼 LinkedIn: [josephcliffordmuiruri](https://www.linkedin.com/in/josephcliffordmuiruri)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing makes me happier than turning messy data into sleek dashboards! 🧼➡️📊
+My name is **Joseph Muiruri**, a Data Analyst with a finance background based in Melbourne, Australia.
+
+I'm a curious mind and lifelong learner who genuinely enjoys turning messy datasets into clear answers. Whether it's financial models, operational data, or customer behaviour, I'm drawn to the questions data lets you ask, and the decisions it helps people make.
+
+Over the past few years, I've built skills across data quality, business analysis, data modeling, and visualisation, with hands-on experience designing dashboards and analytical solutions that bridge finance and analytics.
+
+Currently exploring 🔭 machine learning, forecasting, and advanced DAX patterns in Power Pivot and Power BI.

@@ -75,5 +75,5 @@ Solidity smart contract for decentralised lending and trading on Ethereum — im
 
 ## 📬 Connect
 
-[![LinkedIn](www.linkedin.com/in/josephcliffordmuiruri)
+[![LinkedIn]([www.linkedin.com/in/josephcliffordmuiruri](https://www.linkedin.com/in/josephcliffordmuiruri/))
 [![Email](https://img.shields.io/badge/Email-cliffjoem@gmail.com-EA4335?style=flat&logo=gmail)](mailto:cliffjoem@gmail.com)

@@ -4,19 +4,28 @@
 
 *From numbers to insight — where finance meets analytics.*
 
-`Power BI` `SQL` `Python` `Financial Modelling` `CPA Australia ASA` `MFinAnalysis (FinTech) — Distinction`
-
 ---
 
 ## About
 
-Financial Analyst with a strong focus on financial data analytics and business performance insight. I work at the intersection of finance, analytics, and decision-making — helping organisations move beyond static reporting toward data-driven financial insight.
+Finance and Business Performance Analyst with 3+ years of experience in financial analysis, budgeting, forecasting, management reporting and business intelligence across consulting, banking and donor-funded sectors in Australia and Kenya. Skilled in Power BI SQL, Python DAX and advanced Excel to deliver data-driven insights, automate reporting and improve business performance. Proven ability to lead analytical projects, build KPI dashboards, improve forecast accuracy, and support decision-making across multinational and cross-functional environments.
 
-My work focuses on improving how finance teams analyse performance, automate reporting, and understand the drivers behind revenue, cost, and operational outcomes.
+𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝘂𝗺𝗺𝗮𝗿𝘆
+Experienced in financial analysis, accounting, reporting, and data analytics roles across consulting firms, financial institutions, and public sector organisations. Delivered budgeting support, variance analysis, reconciliations, reporting automation, and dashboard development to improve efficiency and strategic planning. Collaborated with multidisciplinary teams to provide executive-ready insights, strengthen reporting frameworks, and support business objectives through data-driven analysis.
 
-> "Most finance dashboards fail not because the data is wrong, but because they answer the wrong questions. Leaders need clarity on cost drivers, risk exposure, and what's changing before decisions get expensive."
+𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
+Financial Analysis | FP&A | Budget Forecasting | Variance Analysis | Financial Modelling | Management Reporting | Power BI | SQL | Python | Advanced Excel | ETL Development | Dashboard Automation | Data Analytics | Business Intelligence | KPI Reporting | Reconciliation | Audit Preparation | Predictive Analytics | Stakeholder Management
 
-Currently interested in opportunities as a **Financial Analyst**, **Commercial Analyst**, or **Financial Data Analyst** — where finance and analytics combine to support business strategy and performance.
+𝗦𝗶𝗴𝗻𝗶𝗳𝗶𝗰𝗮𝗻𝘁 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀
+1. Improved forecast accuracy by 40% through automated financial planning models.
+2. Reduced reporting effort by 60% and accelerated turnaround by 95% through SQL ETL and Power BI automation.
+3. Analysed 15,000+ data records for 500+ organisations to deliver business and workforce insights.
+
+𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗣𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝘆 & 𝗚𝗼𝗮𝗹𝘀
+Passionate about using financial analysis automation and data storytelling to improve business performance and decision-making. Focused on advancing expertise in FP&A business intelligence and predictive analytics while supporting data-driven organisations.
+
+𝗘𝗻𝗴𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗜𝗻𝘃𝗶𝘁𝗮𝘁𝗶𝗼𝗻
+Open to connecting with professional recruiters and industry leaders to discuss finance analytics and business performance opportunities. Interested in collaborations, strategic projects, and innovative data-driven solutions.
 
 ---
 
@@ -62,27 +71,59 @@ End-to-end analytics for a global retailer with $55.7M revenue across 62,884 rec
 
 ## 💼 Experience
 
-**Data Analyst Consultant** · DashboardWorx · Part-time · Remote
-*Oct 2025 – Present · Sydney, NSW*
-- Delivered finance-focused performance dashboards across five divisions — real-time visibility into profitability, asset quality, and emerging cost pressures
-- Built Power BI data models with DAX to automate revenue reconciliation, reducing manual effort by 12+ hours/week
-- Developed SQL-based data pipelines from core banking, treasury, and ERP systems — increasing reporting frequency from monthly to daily
-- Integrated delinquency data and macroeconomic indicators into loan loss forecasting models informing quarterly provisioning
-- Created OPEX variance and trend analysis views, contributing to a 10% reduction in discretionary spending
+### Financial Data Analyst Consultant
+**DashboardWorx** · Part-time · Remote<br>
+*Jan 2026 – Present · Sydney, NSW, Australia*
 
-**Data Quality & Insights Analyst Intern** · datacareer.app · Remote
-*Oct 2025 – Dec 2025 · Sydney, NSW*
-- Built an Excel-based role classification framework analysing 15,000+ Australian job listings
-- Identified 200+ ambiguous job titles using title frequency and skill-pattern analysis
-- Designed a skill-signal scoring model across 60+ skills, improving hidden-role detection by ~35%
-- Increased relevant role visibility for users by over 40% through threshold and flagging logic
+I drive financial reporting transformation and performance analysis initiatives across multiple client portfolios within financial services and commercial sectors. I lead the development of automated forecasting structures, reporting frameworks, and business intelligence solutions that improve financial visibility and decision-making. Working with executives, programme managers, and cross-functional stakeholders, I convert complex financial data into strategic insights that strengthen operational efficiency, expenditure control, and investment planning.
 
-**Accounts Assistant** · Tana Water Works Development Agency · Contract
+**Key Achievements**
+1. Improved forecast accuracy by 40% through integrated revenue and expenditure forecasting models
+2. Reduced reporting effort by 60% by automating accruals, reconciliations, and reporting workflows
+3. Accelerated financial reporting turnaround by 95% through SQL ETL pipelines and Power BI automation
+4. Delivered CapEx and operational expenditure insights supporting executive investment decisions
+
+<br>
+
+### Data Quality & Insights Analyst Intern
+**datacareer.app** · Internship · Remote<br>
+*Oct 2025 – Dec 2025 · Sydney, NSW, Australia*
+
+I supported labour market intelligence and organisational reporting initiatives by analysing large-scale datasets and transforming raw information into actionable business insights. I collaborated with geographically distributed teams to improve analytical frameworks, strengthen reporting consistency, and align reporting outputs with strategic workforce planning objectives.
+
+**Key Achievements**
+1. Analysed 15,000+ records to deliver workforce and labour market insights for 500+ organisations
+2. Improved reporting consistency through structured analytical and validation frameworks
+3. Streamlined reporting workflows to improve analytical turnaround and operational efficiency
+4. Delivered executive-ready insights supporting workforce planning and strategic decision-making
+
+<br>
+
+### Accounts Assistant
+**Tana Water Works Development Agency** · Contract<br>
 *Feb 2022 – Aug 2023 · Nyeri, Kenya*
-- Managed disbursement of African Development Bank donor funds ensuring full compliance with funding conditions
-- Reconciled payments to communities, suppliers, and contractors with full traceability
-- Performed variance analysis and data quality checks aligned to public-sector governance requirements
-- Prepared financial datasets supporting audit readiness and quarterly/annual statutory reporting
+
+I supported financial operations across donor-funded infrastructure programmes by assisting with budgeting, expenditure forecasting, reconciliations, compliance reporting, and transaction processing. Working within a highly regulated public sector environment, I contributed to financial accuracy, audit readiness, and expenditure monitoring, while supporting monthly management reporting across large-scale infrastructure projects funded by the African Development Bank.
+
+**Key Achievements**
+1. Supported budgeting and expenditure forecasting across donor-funded infrastructure programmes
+2. Processed and reconciled transactions for 1,000+ landowners, suppliers, and contractors
+3. Strengthened audit readiness through structured financial schedules and supporting documentation
+4. Identified expenditure inefficiencies contributing to a 9% reduction in operational spending
+
+<br>
+
+### Accounts Assistant
+**MTAX Solutions Limited**<br>
+*Dec 2020 – Jan 2022 · Thika, Kiambu, Kenya*
+
+I supported accounting and financial administration activities by assisting with reconciliations, transaction processing, financial documentation, and reporting preparation within a client-focused business environment. I contributed to maintaining accurate financial records, supporting compliance processes, and ensuring timely reporting across multiple operational functions.
+
+**Key Achievements**
+1. Assisted with transaction reconciliations and financial reporting activities
+2. Maintained accurate financial records and supporting documentation
+3. Supported compliance and reporting processes across daily accounting operations
+4. Contributed to operational efficiency through organised financial administration support
 
 ---
 
